@@ -1,5 +1,6 @@
-### I'm Frozeeen 👋
-Nice to meet you :)
+## I'm Frozeeen 👋❄
+<p>I'm currently working on anything that I can do 😅.</p>
+<p>What about you then?</p>
 
 <!--
 **frozeeen/frozeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
