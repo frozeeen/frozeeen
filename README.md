@@ -1,7 +1,6 @@
-## I'm Frozeeen 👋❄
-<p>Currently working on anything that I can do.</p>
+### I'm Frozeeen 👋❄
+<p>Currently working on something or anything.</p>
 
-![](https://media.giphy.com/media/13GIgrGdslD9oQ/source.gif)
 <!--
 **frozeeen/frozeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
