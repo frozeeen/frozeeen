@@ -1,7 +1,6 @@
 ### I'm Frozeeen 👋❄
+A trying-hard developer in this universe.
 
 ```python
-Currently working on something OR anything.
+Right now I'm currently working on something OR anything.
 ```
-
-To learn recursion, click [here](https://github.com/frozeeen) or on my [youtube channel](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
