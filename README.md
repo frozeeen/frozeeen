@@ -2,6 +2,10 @@
 A trying-hard developer in this universe.
 
 ```python
-Web developmentally frustrated
--Jeff
+Syntactically ~ developmentally frustrated
 ```
+
+<!-- 
+  Oh, you found me :)
+  Drop a hi @ florenciobagayawa+hidden@gmail.com
+-->
